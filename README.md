@@ -50,7 +50,7 @@ Requirements
 ------------
 
 The script should work with Python versions as old as 2.4.  It has
-been tested with Python 2.6.  No Python modules are necessary.
+been tested with Python 2.6 and 2.7.  No Python modules are necessary.
 
 The ZFS command line programs should be available.
 
